@@ -247,43 +247,43 @@ header {
 
   &:nth-child(2) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.200px * 38);
+      background-position: 0 calc(-54.612px * 38);
     }
   }
 
   &:nth-child(3) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.00px * 26);
+      background-position: 0 calc(-54.612px * 26);
     }
   }
 
   &:nth-child(4) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.00px * 46);
+      background-position:0 calc(-54.612px * 46);
     }
   }
 
   &:nth-child(5) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.200px * 41);
+      background-position: 0 calc(-54.612px * 41);
     }
   }
 
   &:nth-child(6) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.00px * 14);
+      background-position: 0 calc(-54.612px * 14);
     }
   }
 
   &:nth-child(7) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.00px * 35);
+      background-position:0 calc(-54.612px * 35);
     }
   }
 
   &:nth-child(8) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.200px * 16);
+      background-position: 0 calc(-54.612px * 16);
     }
   }
 
@@ -295,37 +295,37 @@ header {
 
   &:nth-child(10) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.00px * 43);
+      background-position: 0 calc(-54.612px * 43);
     }
   }
 
   &:nth-child(11) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.00px * 0);
+      background-position: 0 calc(-54.612px * 0);
     }
   }
 
   &:nth-child(12) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.00px * 32);
+      background-position: 0 calc(-54.612px * 32);
     }
   }
 
   &:nth-child(13) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.200px * 23);
+      background-position: 0 calc(-54.612px * 23);
     }
   }
 
   &:nth-child(14) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.200px * 37);
+      background-position: 0 calc(-54.612px * 37);
     }
   }
 
   &:nth-child(15) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 47);
+      background-position: 0 calc(-54.612px * 47);
     }
   }
 
@@ -337,55 +337,55 @@ header {
 
   &:nth-child(17) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.100px * 28);
+      background-position: 0 calc(-54.612px * 28);
     }
   }
 
   &:nth-child(18) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 22);
+      background-position: 0 calc(-54.612px * 22);
     }
   }
 
   &:nth-child(19) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 27);
+      background-position: 0 calc(-54.612px * 27);
     }
   }
 
   &:nth-child(20) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.200px * 20);
+      background-position: 0 calc(-54.612px * 20);
     }
   }
 
   &:nth-child(21) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 24);
+      background-position: 0 calc(-54.612px * 24);
     }
   }
 
   &:nth-child(22) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 11);
+      background-position: 0 calc(-54.612px * 11);
     }
   }
 
   &:nth-child(23) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.200px * 42);
+      background-position: 0 calc(-54.612px * 42);
     }
   }
 
   &:nth-child(24) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 36);
+      background-position: 0 calc(-54.612px * 36);
     }
   }
 
   &:nth-child(25) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 12);
+      background-position: 0 calc(-54.612px * 12);
     }
   }
 
@@ -397,55 +397,55 @@ header {
 
   &:nth-child(27) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.200px * 33);
+      background-position: 0 calc(-54.612px * 33);
     }
   }
 
   &:nth-child(28) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 25);
+      background-position: 0 calc(-54.612px * 25);
     }
   }
 
   &:nth-child(29) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.200px * 44);
+      background-position: 0 calc(-54.612px * 44);
     }
   }
 
   &:nth-child(30) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 30);
+      background-position: 0 calc(-54.612px * 30);
     }
   }
 
   &:nth-child(31) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 10);
+      background-position: 0 calc(-54.612px * 10);
     }
   }
 
   &:nth-child(32) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.200px * 45);
+      background-position: 0 calc(-54.612px * 45);
     }
   }
 
   &:nth-child(33) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 40);
+      background-position: 0 calc(-54.612px * 40);
     }
   }
 
   &:nth-child(34) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-55.100px * 18);
+      background-position: 0 calc(-54.612px * 18);
     }
   }
 
   &:nth-child(35) {
     .caixa-icone__imagem {
-      background-position: 0 calc(-54.100px * 15);
+      background-position: 0 calc(-54.612px * 15);
     }
   }
 
