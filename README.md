@@ -130,6 +130,6 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 
 - **Nome**: Juliana de Maula
 - **E-mail**: jdemaula@gmail.com
-- **LinkedIn**: [Seu Perfil no LinkedIn]
-- **GitHub**: [Seu Perfil no GitHub]
+- **LinkedIn**: www.linkedin.com/in/juliana-de-maula
+- **GitHub**: https://github.com/julianamaula
 
