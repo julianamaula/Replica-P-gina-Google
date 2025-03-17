@@ -71,11 +71,10 @@ replica-google/
 
 ---
 
-## ![alt text](<Captura de tela 2025-03-16 191812.png>)Capturas de Tela
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](assets/screenshots/desktop.png) | ![Mobile](assets/screenshots/mobile.png) |
+| ![Desktop](./assests/Captura%20de%20tela%202025-03-16%20191812.png) | ![Mobile](./assests/Screenshot_20250316_211907.jpg) |
 
 ---
 
